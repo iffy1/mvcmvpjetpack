@@ -1,0 +1,4 @@
+rootProject.name='mvcmvpjetpack'
+include ':app'
+include ':mvp'
+include ':jetpack'
